@@ -8,6 +8,6 @@ Trying to pass the university.. ;D
 
 list(n) - lista(n)
 
-challange(n) - zadanie(n) (folder)
+challenge(n) - zadanie(n) (folder)
 
 z(n) - zadanie(n) (plik)
